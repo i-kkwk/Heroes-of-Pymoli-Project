@@ -1,19 +1,13 @@
 # Pymoli Project - Pandas, Pandas, Pandas
 
-## Background
 
-The data dive continues!
-
-Now, it's time to take what I've learned about Python Pandas and apply it to new situations. 
-
-
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
-For this project I've landed a job as Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+For this project I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like me to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task is to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 Final report will include each of the following:
 
